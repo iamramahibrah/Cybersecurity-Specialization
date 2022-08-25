@@ -1,6 +1,5 @@
-# Cybersecurity-University.of.Maryland :white_check_mark:
-Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secure Systems - Coursera
-
+# Cybersecurity-University.of.Maryland 
+Cybersecurity Specialization
 ## Course 1 - Usable Security
 * Fundamentals of Human-Computer Interaction
   * Integrate an understanding of human abilities with technological demands
@@ -170,13 +169,3 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Understand what is PUF and how it can help to build more secure system
   * Learn the vulnerabilities and countermeasures in FPGA design and FPGA-based systems
 
-#### Taught by: 
-#### Jennifer Golbeck, Director, Human-Computer Interaction Lab
-#### Michael Hicks, Professor, Department of Computer Science
-#### Jonathan Katz, Director, Maryland Cybersecurity Center
-#### Gang Qu, Associate Professor, Electrical and Computer Engineering
-
-### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
-### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
-
-### Created By Bilal Cagiran | [E-Mail](mailto:bcagiran@hotmail.com) | [Github](https://github.com/extwiii/) | [LinkedIn](https://linkedin.com/in/bilalcagiran) | [CodePen](http://codepen.io/extwiii/) | [Blog/Site](http://bilalcagiran.com) | [FreeCodeCamp](https://www.freecodecamp.com/extwiii) 
