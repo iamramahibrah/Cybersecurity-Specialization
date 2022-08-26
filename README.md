@@ -60,4 +60,18 @@ Cybersecurity Specialization
 ```
 
  - [ ] Hardware Security
+
+> Week 1. Digital System Sesign: Baisc and Vulnerability
+
+> Week 2. Intellectual Property Protection 
+
+> Week 3. Physical Attacks and Modular Exponention
+
+> Week 4. 
+
+> Week 5.
+
+> Week 6.
+
+> Week 7. 
  - [ ] Cybersecurity Capstone Project
