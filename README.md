@@ -67,11 +67,11 @@ Cybersecurity Specialization
 
 > Week 3. Physical Attacks and Modular Exponention
 
-> Week 4. 
+> Week 4. Side Channel Attack and Countermeasure
 
-> Week 5.
+> Week 5. Hardware Trojan Detection and Trusted IC Design
 
-> Week 6.
+> Week 6. Good Practice and Emerging Technologies
 
-> Week 7. 
+> Week 7. Final Exam
  - [ ] Cybersecurity Capstone Project
