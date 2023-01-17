@@ -63,7 +63,7 @@
 + Received Grade 92%  
 ```
 
- - [ ] Hardware Security
+ - [x] Hardware Security
 
 > Week 1. Digital System Sesign: Baisc and Vulnerability | <code> [Hardware Security Certificate](https://coursera.org/share/867daab34a0c1067d959b25105976895)</code>
 
