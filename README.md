@@ -73,5 +73,3 @@ Cybersecurity Specialization
 
 > Week 6. Good Practice and Emerging Technologies
 
-> Week 7. Final Exam
- - [ ] Cybersecurity Capstone Project
