@@ -61,7 +61,7 @@ Cybersecurity Specialization
 
  - [ ] Hardware Security
 
-> Week 1. Digital System Sesign: Baisc and Vulnerability | <code> [Hardware Security Certificate](https://coursera.org/share/867daab34a0c1067d959b25105976895)
+> Week 1. Digital System Sesign: Baisc and Vulnerability | <code> [Hardware Security Certificate](https://coursera.org/share/867daab34a0c1067d959b25105976895)</code>
 
 > Week 2. Intellectual Property Protection 
 
